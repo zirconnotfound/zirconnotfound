@@ -7,8 +7,7 @@ I'm a student currently enrolling at **Hanoi University of Science and Technolog
 ---
 
 ## 🏆 Achievements & GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zirconnotfound&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)  
+ 
 [![zirconnotfound's GitHub stats](https://github-readme-stats.vercel.app/api?username=zirconnotfound&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zirconnotfound&layout=compact&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
