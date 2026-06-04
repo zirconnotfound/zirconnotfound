@@ -7,18 +7,17 @@ I'm a student currently enrolling at **Hanoi University of Science and Technolog
 ---
 
 ## 🏆 Achievements & GitHub Stats
- 
-[![zirconnotfound's GitHub stats](https://github-readme-stats.vercel.app/api?username=zirconnotfound&show_icons=true&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zirconnotfound&layout=compact&theme=tokyonight&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zirconnotfound&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+ 
+[![zirconnotfound's Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zirconnotfound&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![zirconnotfound's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zirconnotfound&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![zirconnotfound's Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zirconnotfound&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![zirconnotfound's Most Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zirconnotfound&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ---
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** React, Next.js, TypeScript, GSAP
-- **Backend:** Node.js, Python, Golang
+- **Backend:** Node.js, Python, Golang, C/C++
 - **Databases:** PostgreSQL, MySQL, MongoDB
 
 ---
@@ -26,8 +25,8 @@ I'm a student currently enrolling at **Hanoi University of Science and Technolog
 ## 🌟 Favorite Projects
 
 - [cong_le-portfolio](https://github.com/zirconnotfound/cong_le-portfolio): My personal portfolio site, showcasing my journey, projects, and skills.
-- [echoes-fe](https://github.com/echoes-startup/echoes-fe): Frontend for the Echoes startup project, focused on delivering seamless user experiences.
-- [message-displayer](https://github.com/zirconnotfound/message-displayer): A handy tool for displaying messages, notifications, and alerts in style.
+- [DiemThiCrawler](https://github.com/zirconnotfound/DiemThiCrawler): A specific crawler used for collecting exam points and ranking based on the subject each student participates in. Use and update once a year.
+- [simple-shell](https://github.com/zirconnotfound/simple-shell): School's project, rebuild a shell in C++ using WINAPI.
 
 *Explore more on my [GitHub profile](https://github.com/zirconnotfound?tab=repositories)!*
 
@@ -44,6 +43,7 @@ I'm a student currently enrolling at **Hanoi University of Science and Technolog
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nguy%E1%BB%85n-c%C3%B4ng-s%C6%A1n-218027306/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/mocnhan7125/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:congson7125@gmail.com)
 
 ---
 
